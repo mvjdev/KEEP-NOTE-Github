@@ -32,10 +32,12 @@
 
 #### Clonage du dépôt
 ```
-git clone https://github.com/NomUtilisateur/NomDuDepot.git
+git clone https://github.com/II-Chelmi-II/DART_BANK_APPLICATION
 ```
 ### Exécution du Projet
 ```
-cd NomDuDepot
+cd DART_BANK_APPLICATION
+```
+```
 dart Main.dart
 ```
