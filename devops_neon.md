@@ -105,7 +105,9 @@ Outputs:
 
 ```
 
-### aws configure pour mettre le ACCESS KEY ET SECRET_KEY_ID
+#### aws configure pour mettre le ACCESS KEY ET SECRET_KEY_ID
+
+## enfin la commande cli
 
 ```|
 aws cloudformation create-stack \                                                                                       1m 44s 15:05:13
